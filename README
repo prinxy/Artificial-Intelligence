@@ -1,0 +1,27 @@
+
+------------------------------
+BRIEF INTRODUCTION            |
+------------------------------
+
+Xux is an interactive AI...
+currently we have to type in command for it to understand
+but plans and workings are still on to make it recognize speech
+and respond to voice command...
+
+Xux AI is open source built with C++.
+
+
+------------------------------
+CURRENT FUNCTIONALITIES       |
+------------------------------
+
+to view what Xux can do just type in 'Help' immediately you launch it and things it responds to will be outputed.
+
+
+
+------------------------------
+NOTE			      |
+------------------------------
+
+Xux was built on Unix, you might get a few errors while trying tocompile it on Windows.
+
